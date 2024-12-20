@@ -21,7 +21,7 @@ repository               : "sweidy/sweidy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "headshot.jpg"
   name             : "Sarah Weidman"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate studying subseasonal weather forecasting."
