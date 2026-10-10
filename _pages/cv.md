@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://sweidy.github.io/files/Weidman_CV_7-26.pdf) (*last updated 07-2026*)
+[CV](https://sweidy.github.io/files/Weidman_CV_10-26.pdf) (*last updated 10-2026*)

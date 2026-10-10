@@ -11,6 +11,8 @@ author_profile: true
 
 ## Articles
 
+[Submitted] Weidman, S., Kuang, Z. (2026) Extending the limits of online state-independent bias corrections in climate models. *Journal of Advances in Modeling Earth Systems*. (online preprint coming soon). [Download pdf](https://sweidy.github.io/files/empirical_correction_weidman.pdf)
+
 Weidman, S., Kuang, Z. (2023). "Potential Predictability of the Madden-Julian Oscillation in a Superparameterized Model." *Geophysical Research Letters*, 50, e2023GL105705. [https://doi.org/10.1029/2023GL105705](https://doi.org/10.1029/2023GL105705). 
 [Download pdf](https://sweidy.github.io/files/predictability_spcam_weidman.pdf)
 
